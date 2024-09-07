@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Edges of Vertices, a Cross-Platform Learning Media<br>🌱 I’m currently learning everything<br>💬 You can ask me about anything on my Discord!
+🔭 I’m currently working on [The Edges of Vertices](https://hadesxr-git.github.io/RXNiMediaRepo/TEoV_beta "The Edges of Vertices"), a Cross-Platform Learning Media<br>🌱 I’m currently learning everything<br>💬 You can ask me about anything on my Discord!
 
 
 ## 🌐 Socials:
