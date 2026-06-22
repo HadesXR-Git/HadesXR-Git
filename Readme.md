@@ -51,7 +51,7 @@
   <a href="asa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
-  <a href="twitter.com/@TomoThatTweets" target="_blank">
+  <a href="https://www.twitter.com/@TomoThatTweets" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%20(Formerly%20Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
