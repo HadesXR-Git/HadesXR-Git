@@ -42,13 +42,13 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="asa" target="_blank">
+  <a href="https://youtube.com/@TomoOnAir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="asa" target="_blank">
+  <a href="https://discord.com/users/688693904622616694" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="asa" target="_blank">
+  <a href="https://codepen.io/hadesxr-git" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
   <a href="https://www.twitter.com/@TomoThatTweets" target="_blank">
