@@ -1,15 +1,5 @@
 <h2 data-importer="text" align="left">Welcome!</h2>
 
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/HadesXR-Git/HadesXR-Git/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/HadesXR-Git/HadesXR-Git/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="160" alt="languages graph"  />
-</div>
-
-###
 
 <img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/66524055?v=4"  />
 
